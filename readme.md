@@ -1,5 +1,5 @@
 # ***Extra Time Frontend 3 by Dylan van Zanten***
-![Frontend 3 extra time](preview.png =250x)
+![Frontend 3 extra time](preview.png)
 
 ## ***Short description***
 This is a assignment about the extra time that's being put into the subject [Frontend 3](https://github.com/cmda-fe3/course-17-18). Here you can read all the stuff that I've put extra time in.
